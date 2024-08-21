@@ -6,6 +6,8 @@
 - [**Public Policies (PPS)**](https://github.com/fromsantanu/PPS-Main) : Public policy refers to the strategic decisions and actions taken by governments to address societal issues, shaping the laws, regulations, and programs that impact the public's well-being. It involves a dynamic process of problem identification, policy formulation, implementation, and evaluation, aiming to create effective and equitable solutions for the common good.
 
 ## Geography and Study of Nations
-- [Indian States ](https://github.com/fromsantanu/Indian-States) : Study of Indian States and union territories.
+- [**Indian States**](https://github.com/fromsantanu/Indian-States) : The study of Indian states and union territories involves exploring their diverse cultures, economies, governance structures, and development indicators. It provides insights into the regional variations and complexities that shape India's social, economic, and political landscape.
 
 ## Sales & Marketing
+- [**Sales Forecasting (SFC)**](https://github.com/fromsantanu/SFC-Main) : Sales forecasting is the process of estimating future sales based on historical data, market trends, and other influencing factors. It is crucial for making informed business decisions, setting realistic targets, and managing resources effectively.
+- [**Sales Analysis (SAN)**](https://github.com/fromsantanu/SAN-Main) : Sales analysis involves examining sales data to identify trends, patterns, and insights that inform business strategies. It helps in understanding customer behavior, optimizing product offerings, and improving overall sales performance.
