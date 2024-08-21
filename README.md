@@ -5,7 +5,7 @@
 - [**Developmental Studies (DVS)**](https://github.com/fromsantanu/DVS-Main) : Developmental studies explore the processes and factors that contribute to the social, political and economic growth by focusing on strategies to improve living conditions, health, education, reduce poverty, and enhance human well-being. This interdisciplinary field integrates perspectives from economics, sociology, political science, and public health to address complex global challenges.
 - [**Public Policies (PPS)**](https://github.com/fromsantanu/PPS-Main) : Public policy refers to the strategic decisions and actions taken by governments to address societal issues, shaping the laws, regulations, and programs that impact the public's well-being. It involves a dynamic process of problem identification, policy formulation, implementation, and evaluation, aiming to create effective and equitable solutions for the common good.
 
-## Geography and Study of Nations
+## Geography and Study of Indian Subcontinent
 - [**Indian States**](https://github.com/fromsantanu/Indian-States) : The study of Indian states and union territories involves exploring their diverse cultures, economies, governance structures, and development indicators. It provides insights into the regional variations and complexities that shape India's social, economic, and political landscape.
 
 ## Sales & Marketing
