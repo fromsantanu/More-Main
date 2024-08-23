@@ -18,6 +18,7 @@
 
 ---
 Miscellaneous Studies
+
 ---
 ## Sales & Marketing
 - [**Sales Forecasting (SFC)**](https://github.com/fromsantanu/SFC-Main) : Sales forecasting is the process of estimating future sales based on historical data, market trends, and other influencing factors. It is crucial for making informed business decisions, setting realistic targets, and managing resources effectively.
