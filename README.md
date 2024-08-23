@@ -12,7 +12,7 @@
 ## Study of European Subcontinent
 - [**European States**](https://github.com/fromsantanu/Euro-States) : The study of European states involves analyzing their historical backgrounds, political systems, economies, and cultural identities. It offers a deep understanding of the continent's integration, diversity, and the challenges and opportunities faced by its nations within the broader European Union framework.
 
-,,,
+---
 
 ## Sales & Marketing
 - [**Sales Forecasting (SFC)**](https://github.com/fromsantanu/SFC-Main) : Sales forecasting is the process of estimating future sales based on historical data, market trends, and other influencing factors. It is crucial for making informed business decisions, setting realistic targets, and managing resources effectively.
