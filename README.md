@@ -2,6 +2,7 @@
 
 ---
 # International Studies
+
 ---
 ## Population, Development, Politics and Public Policies
 - [**Study of Population and Demography (SPD)**](https://github.com/fromsantanu/SPD-Main) : The study of population and demography involves analyzing the structure, dynamics, and trends within human populations. It provides insights into factors like birth rates, mortality, migration, and aging, helping to inform policies and strategies for managing social and economic challenges related to population changes.
