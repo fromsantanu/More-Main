@@ -15,9 +15,9 @@
 
 ### Study of European Subcontinent
 - [**A General Overview of Europe**](https://github.com/fromsantanu/Europe-Overview) : Covers structured framework to explore the broad and diverse history of Europe, helping to understand its transformation over time
-- [**Transformation of European societies**](#) : The transformation of European societies from the feudal, unequal, and often brutal systems of the past to the more civilized, enlightened, and developed nations we see today was a long and complex process influenced by numerous factors.
+- [**Transformation of European societies**](https://github.com/fromsantanu/Europe-Transformation) : The transformation of European societies from the feudal, unequal, and often brutal systems of the past to the more civilized, enlightened, and developed nations we see today was a long and complex process influenced by numerous factors.
 - [**Knowing the European States**](https://github.com/fromsantanu/Euro-States) : The study of European states involves analyzing their historical backgrounds, political systems, economies, and cultural identities. It offers a deep understanding of the continent's integration, diversity, and the challenges and opportunities faced by its nations within the broader European Union framework.
-- [**Deep Dive into British History**](#) : A detailed look into the topics that covers significant periods, events, and themes from ancient times to the present Britain
+- [**Deep Dive into British History**](https://github.com/fromsantanu/British-History) : A detailed look into the topics that covers significant periods, events, and themes from ancient times to the present Britain
 
 ---
 ## Miscellaneous Studies
