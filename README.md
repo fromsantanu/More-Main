@@ -10,7 +10,8 @@
 - [**Public Policies (PPS)**](https://github.com/fromsantanu/PPS-Main) : Public policy refers to the strategic decisions and actions taken by governments to address societal issues, shaping the laws, regulations, and programs that impact the public's well-being. It involves a dynamic process of problem identification, policy formulation, implementation, and evaluation, aiming to create effective and equitable solutions for the common good.
 
 ### Study of Indian Subcontinent
-- [**Indian States**](https://github.com/fromsantanu/Indian-States) : The study of Indian states and union territories involves exploring their diverse cultures, economies, governance structures, and development indicators. It provides insights into the regional variations and complexities that shape India's social, economic, and political landscape.
+- [**India (Journey from Past to Present)**](#) :India's journey from ancient civilization to a modern democratic republic is marked by a rich tapestry of cultural, political, and social evolution. From the Vedic age and empires like the Mauryas and Mughals to the colonial struggle and eventual independence, India's past has shaped its diverse and dynamic present, reflecting a blend of tradition and progress. 
+- [**Getting to know about the Indian States**](https://github.com/fromsantanu/Indian-States) : The study of Indian states and union territories involves exploring their diverse cultures, economies, governance structures, and development indicators. It provides insights into the regional variations and complexities that shape India's social, economic, and political landscape.
 
 ### Study of European Subcontinent
 - [**A General Overview of Europe**](#) : Covers structured framework to explore the broad and diverse history of Europe, helping to understand its transformation over time
