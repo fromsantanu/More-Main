@@ -14,9 +14,6 @@
 - [**Indian Polity (Independent India)**](https://github.com/fromsantanu/Indian-Polity) :Indian Polity refers to the framework, structure, and functioning of the political and administrative system of India, encompassing the Constitution, governance, fundamental rights, duties, and the roles of various bodies and institutions. It examines how power is distributed and exercised at the national, state, and local levels, highlighting the principles of democracy, federalism, and secularism.
 - [**Getting to know about the Indian States**](https://github.com/fromsantanu/Indian-States) : The study of Indian states and union territories involves exploring their diverse cultures, economies, governance structures, and development indicators. It provides insights into the regional variations and complexities that shape India's social, economic, and political landscape.
 
-### English Communication
-- [**Learning to Speak English the British Way (Non-Native)**](https://github.com/fromsantanu/British-English/blob/main/README.md) : Learning to speak the British way as a non-native involves mastering pronunciation, intonation, and unique vocabulary to sound more authentic. It requires listening to native speakers, practicing regularly, and embracing the nuances of British culture and expressions. This section contains examples to practice British way of speaking English with suitable instructions both in text and video form.
-
 ### Study of European Subcontinent
 - [**A General Overview of Europe**](https://github.com/fromsantanu/Europe-Overview) : Covers structured framework to explore the broad and diverse history of Europe, helping to understand its transformation over time
 - [**Transformation of European societies**](https://github.com/fromsantanu/Europe-Transformation) : The transformation of European societies from the feudal, unequal, and often brutal systems of the past to the more civilized, enlightened, and developed nations we see today was a long and complex process influenced by numerous factors.
@@ -24,7 +21,10 @@
 - [**Deep Dive into British History**](https://github.com/fromsantanu/British-History) : A detailed look into the topics that covers significant periods, events, and themes from ancient times to the present Britain
 
 ---
-## Miscellaneous Studies
+# Miscellaneous Studies
+
+## English Communication
+- [**Learning to Speak English the British Way (Non-Native)**](https://github.com/fromsantanu/British-English/blob/main/README.md) : Learning to speak the British way as a non-native involves mastering pronunciation, intonation, and unique vocabulary to sound more authentic. It requires listening to native speakers, practicing regularly, and embracing the nuances of British culture and expressions. This section contains examples to practice British way of speaking English with suitable instructions both in text and video form.
 
 ## Sales & Marketing
 - [**Sales Forecasting (SFC)**](https://github.com/fromsantanu/SFC-Main) : Sales forecasting is the process of estimating future sales based on historical data, market trends, and other influencing factors. It is crucial for making informed business decisions, setting realistic targets, and managing resources effectively.
