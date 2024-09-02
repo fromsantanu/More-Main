@@ -14,6 +14,9 @@
 - [**Indian Polity (Independent India)**](https://github.com/fromsantanu/Indian-Polity) :Indian Polity refers to the framework, structure, and functioning of the political and administrative system of India, encompassing the Constitution, governance, fundamental rights, duties, and the roles of various bodies and institutions. It examines how power is distributed and exercised at the national, state, and local levels, highlighting the principles of democracy, federalism, and secularism.
 - [**Getting to know about the Indian States**](https://github.com/fromsantanu/Indian-States) : The study of Indian states and union territories involves exploring their diverse cultures, economies, governance structures, and development indicators. It provides insights into the regional variations and complexities that shape India's social, economic, and political landscape.
 
+### English Communication
+- [**Learning to Speak British Way (Formal)**](#) : Learning to speak the British way as a non-native involves mastering pronunciation, intonation, and unique vocabulary to sound more authentic. It requires listening to native speakers, practicing regularly, and embracing the nuances of British culture and expressions. This section contains examples to practice British way of speaking with suitable instructions.
+
 ### Study of European Subcontinent
 - [**A General Overview of Europe**](https://github.com/fromsantanu/Europe-Overview) : Covers structured framework to explore the broad and diverse history of Europe, helping to understand its transformation over time
 - [**Transformation of European societies**](https://github.com/fromsantanu/Europe-Transformation) : The transformation of European societies from the feudal, unequal, and often brutal systems of the past to the more civilized, enlightened, and developed nations we see today was a long and complex process influenced by numerous factors.
