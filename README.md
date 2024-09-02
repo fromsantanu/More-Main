@@ -15,7 +15,7 @@
 - [**Getting to know about the Indian States**](https://github.com/fromsantanu/Indian-States) : The study of Indian states and union territories involves exploring their diverse cultures, economies, governance structures, and development indicators. It provides insights into the regional variations and complexities that shape India's social, economic, and political landscape.
 
 ### English Communication
-- [**Learning to Speak English the British Way (Non-Native)**](#) : Learning to speak the British way as a non-native involves mastering pronunciation, intonation, and unique vocabulary to sound more authentic. It requires listening to native speakers, practicing regularly, and embracing the nuances of British culture and expressions. This section contains examples to practice British way of speaking English with suitable instructions both in text and video form.
+- [**Learning to Speak English the British Way (Non-Native)**](https://github.com/fromsantanu/British-English/blob/main/README.md) : Learning to speak the British way as a non-native involves mastering pronunciation, intonation, and unique vocabulary to sound more authentic. It requires listening to native speakers, practicing regularly, and embracing the nuances of British culture and expressions. This section contains examples to practice British way of speaking English with suitable instructions both in text and video form.
 
 ### Study of European Subcontinent
 - [**A General Overview of Europe**](https://github.com/fromsantanu/Europe-Overview) : Covers structured framework to explore the broad and diverse history of Europe, helping to understand its transformation over time
